@@ -58,3 +58,4 @@ fig.update_layout(
     template='simple_white'
 )
 fig.show()
+fig.write_html('result.html')
